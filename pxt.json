@@ -1,0 +1,19 @@
+{
+    "name": "ninteenth stream - Team Darzu",
+    "dependencies": {
+        "device": "*",
+        "pxt-lantern": "github:riknoll/pxt-lantern#v0.1.1",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.6.0",
+        "animation": "*"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "preferredEditor": "blocksprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
